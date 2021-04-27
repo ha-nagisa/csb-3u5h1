@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ha-nagisa.github.io/csb-3u5h1/static/css/main.3dfec4f5.chunk.css",
+    "main.js": "https://ha-nagisa.github.io/csb-3u5h1/static/js/main.67755410.chunk.js",
+    "main.js.map": "https://ha-nagisa.github.io/csb-3u5h1/static/js/main.67755410.chunk.js.map",
+    "runtime-main.js": "https://ha-nagisa.github.io/csb-3u5h1/static/js/runtime-main.0bd164ec.js",
+    "runtime-main.js.map": "https://ha-nagisa.github.io/csb-3u5h1/static/js/runtime-main.0bd164ec.js.map",
+    "static/js/2.62839dc2.chunk.js": "https://ha-nagisa.github.io/csb-3u5h1/static/js/2.62839dc2.chunk.js",
+    "static/js/2.62839dc2.chunk.js.map": "https://ha-nagisa.github.io/csb-3u5h1/static/js/2.62839dc2.chunk.js.map",
+    "index.html": "https://ha-nagisa.github.io/csb-3u5h1/index.html",
+    "static/css/main.3dfec4f5.chunk.css.map": "https://ha-nagisa.github.io/csb-3u5h1/static/css/main.3dfec4f5.chunk.css.map",
+    "static/js/2.62839dc2.chunk.js.LICENSE.txt": "https://ha-nagisa.github.io/csb-3u5h1/static/js/2.62839dc2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bd164ec.js",
+    "static/js/2.62839dc2.chunk.js",
+    "static/css/main.3dfec4f5.chunk.css",
+    "static/js/main.67755410.chunk.js"
+  ]
+}
